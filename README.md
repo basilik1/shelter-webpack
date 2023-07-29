@@ -1,1 +1,1 @@
-# shelter-webpack
+deploy:  [RS-shelter](https://rolling-scopes-school.github.io/basilik1-JSFE2023Q1/shelter/index.html)
